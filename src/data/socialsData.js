@@ -1,0 +1,17 @@
+export const socialsData = {
+    github: 'https://github.com/hemant069',
+    facebook: 'https://www.facebook.com/',
+    linkedIn: 'https://www.linkedin.com/in/hemant-prajapatii/',
+    instagram: 'https://www.instagram.com/hemant_069/',
+    codepen: 'https://codepen.io/',
+    leetcode: 'https://leetcode.com/Hemant069/',
+    reddit: 'https://www.reddit.com/user/',
+    blogger: 'https://www.blogger.com/',
+    hackerrank:'https://www.hackerrank.com/hemantprajapati2',
+    medium: 'https://medium.com/@',
+    stackOverflow: 'https://stackoverflow.com/users/',
+    gitlab: 'https://gitlab.com/',
+    codechef: 'https://www.codechef.com/users/anirudhjak06',
+    twitter:'https://twitter.com/Hemantp7860',
+    youtube:'https://www.youtube.com/channel/UCGwQlG9SLHZNY4yBgTyqNpA',
+}
