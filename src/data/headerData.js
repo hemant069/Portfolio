@@ -2,8 +2,8 @@ import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Hemant Ramdutt Prajapati',
-    title: "Software Developer",
+    title: "Full-Stack Developer",
     desciption:"I am passionate about coding with good communication skills and am a fastlearner. Seeking a role to enhance and explore my technical knowledge.",
-    image: 'https://media-exp2.licdn.com/dms/image/C4D03AQEnuvkqiMrNMw/profile-displayphoto-shrink_800_800/0/1646117711627?e=1661990400&v=beta&t=L56ki7-Ci3ZAgV-YIM-8srYOAkkS-t5UOL9FlI0X28Q',
+    image: 'https://media-exp1.licdn.com/dms/image/C5603AQEw9a7T2fXYnQ/profile-displayphoto-shrink_400_400/0/1660806372207?e=1666224000&v=beta&t=N9WDGwEbFx3m6ko7UwUbQuL49el84yJdkL0s7XztIX4',
     resumePdf: resume
 }

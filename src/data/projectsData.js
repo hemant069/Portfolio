@@ -7,6 +7,11 @@ import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
 
+import zoomcar from "../assets/png/zoomcar.png"
+import indian from "../assets/png/indian.png"
+import gearbest from "../assets/png/gearbest.png"
+
+
 
 export const projectsData = [
     {
@@ -16,7 +21,7 @@ export const projectsData = [
         tags: ['React', 'chakra-UI','Javascript','CSS3'],
         code: 'https://github.com/hemant069/hideous-debt-1644',
         demo: 'https://zoomcar-eight.vercel.app/',
-        image: eight
+        image: zoomcar
     },
     {
         id: 2,
@@ -25,7 +30,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS', 'JS','ReactJs'],
         code: 'https://github.com/J-Prajwal/indianExpress',
         demo: 'https://indianexpressclone.netlify.app/',
-        image: two
+        image: indian
     },
     {
         id: 3,
@@ -34,7 +39,7 @@ export const projectsData = [
         tags: ['HTML','CSS','JS'],
         code: 'https://github.com/aakarsh604/Gearbest-Clone',
         demo: 'https://silly-queijadas-e172c2.netlify.app/',
-        image: four
+        image: gearbest
     },
     // {
     //     id: 4,
