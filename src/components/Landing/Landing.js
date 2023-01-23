@@ -6,15 +6,15 @@ import { makeStyles } from '@material-ui/core/styles';
 import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
-import { socialsData } from '../../data/socialsData';
+// import { socialsData } from '../../data/socialsData';
 
-import {
-    FaCode,
-    FaLinkedin,
-    FaGithub,
-    FaLaptopCode,
-    FaHackerrank,
-} from 'react-icons/fa';
+// import {
+//     FaCode,
+//     FaLinkedin,
+//     FaGithub,
+//     FaLaptopCode,
+//     FaHackerrank,
+// } from 'react-icons/fa';
 
 function Landing() {
     const { theme, drawerOpen } = useContext(ThemeContext);
@@ -74,7 +74,7 @@ function Landing() {
                     className='landing--container-left'
                     style={{ backgroundColor: theme.primary }}
                 >
-                    <div className='lcl--content'>
+                    {/* <div className='lcl--content'>
                         {socialsData.linkedIn && (
                             <a
                                 href={socialsData.linkedIn}
@@ -140,7 +140,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                    </div>
+                    </div> */}
                 </div>
                 <img
                     src={headerData.image}
